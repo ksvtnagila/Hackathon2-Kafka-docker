@@ -1,3 +1,5 @@
+The hackathon2.ipynb file is given in the repo
+
 Steps:
 *Open a cmd promt from the location where the docker-compose
 * run the command 'docker compose build'
